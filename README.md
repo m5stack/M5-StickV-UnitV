@@ -24,7 +24,7 @@ UnitV is the new AI Camera powered by Kendryte K210, an edge computing system-on
 
 UNIT-V AI Camera features its integration with machine vision capabilities, featuring the unprocessed acceptability to AI Visioning with high energy efficiency and low cost. We co-oped with Sipeed providing the MicroPython environment makes programming on UNIT-V easier.
 
-Support MicroPython development environment, which makes the program code more concise when you use UNIT-V for project development.Equipped with OV7740 image sensor, it is an ideal choice for machine vision project.
+Support MicroPython development environment, which makes the program code more concise when you use UNIT-V for project development.Equipped with OV2640/OV7740 image sensor, it is an ideal choice for machine vision project.
 
 It is equipped with two programmable keys and an RGB LED indicator on the front for convenient status display.At the bottom, there is a HY2.0*4P interface and a type-C interface compatible with grove, which is convenient to connect with the main controller. Support TF card to expand memory, related material and model file call more convenient.
 
