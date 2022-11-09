@@ -1,6 +1,7 @@
 # M5-StickV/UnitV
+===
 
-English | [中文](README-zh_CN.md)
+English(./README.md) | [中文](./README-zh_CN.md)
 
 <img src="https://static-cdn.m5stack.com/resource/docs/products/core/m5stickv/m5stickv_01.webp" alt="m5stickv" width="200" height="200"><img src="https://static-cdn.m5stack.com/resource/docs/products/unit/unitv/unitv_01.webp" alt="unitv" width="200" height="200"><img src="https://static-cdn.m5stack.com/resource/docs/products/unit/unitv_ov7740/unitv_ov7740_01.webp" alt="unitv_ov7740" width="200" height="200">
 
@@ -28,3 +29,20 @@ Support MicroPython development environment, which makes the program code more c
 
 It is equipped with two programmable keys and an RGB LED indicator on the front for convenient status display.At the bottom, there is a HY2.0*4P interface and a type-C interface compatible with grove, which is convenient to connect with the main controller. Support TF card to expand memory, related material and model file call more convenient.
 
+===
+
+Scripts for M5-StickV/UnitV ~ have a good time~
+
+## Directory Structure
+
+| directory | description |
+| --------- | ----------- |
+| application | Some complex applications |
+| basic | basic micropython usage |
+| board | run python code, config your sipeed hardware |
+| hardware | hardware API usage demo |
+| m5stack | demo for connecting M5Stack products |
+| machine_vision | demo for vision related, including machine vision and AI processing related |
+| modules   | external modules |
+| multimedia | normal multimedia processing, audio video game etc. |
+| network | network related |
